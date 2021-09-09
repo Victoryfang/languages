@@ -1,0 +1,3 @@
+Hello, this is Japanese file
+
+Add a line here
